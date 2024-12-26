@@ -22,6 +22,8 @@ The app will print results on the screen after the 'Predict' button is selected.
         <img src="readme_assests/legit.gif" alt="Usage Legit">
         <figcaption>Usage with Legitimate Site</figcaption>
     </figure>
+</div>
+<div style="display: flex; justify-content: space-around; text-align: center;">
     <figure style="width: 45%;">
         <img src="readme_assests/phish.gif" alt="Usage Phish">
         <figcaption>Usage with Phishing Site</figcaption>
