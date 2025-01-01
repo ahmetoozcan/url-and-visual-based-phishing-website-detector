@@ -35,5 +35,5 @@ The gate selection fuses textual and visual identity predictions together and ou
 
 ## TODO 
 - The app is only a prototype to showcase the models, a Chromium extension is on the roadmap.
-- The performance of text-based models should be optimized. (The performance of text-based models is mediocre and was collected from a project that aimed to compare different deep learning algorithms under the same circumstances.)
+- The performance of text-based models should be optimized. (The performance of text-based models is mediocre and was collected from a project of mine which aimed to compare different deep learning algorithms under the same circumstances.)
 - Lower the visual CNN model size.
