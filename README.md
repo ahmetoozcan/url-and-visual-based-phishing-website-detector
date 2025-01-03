@@ -12,7 +12,7 @@ Start the app with:
 python .\app.py
 ```
 
-(I couldn't upload the visual CNN model because of the Github's 100MB limit, I'll try to find workarrounds to upload later.)
+(I couldn't upload the visual CNN model because of the Github's 100MB limit, I'll try to find workarrounds to upload later. For now you can get the model through [this link](https://drive.google.com/file/d/166MW_hx-bPX31sBF7hbFdCPeDz23Y12l/view?usp=sharing))
 
 Then enter the suspected site's URL into the given input box, select the path to the image (the image must only contain the website content, not the browser) after pressing the 'Load Image' button. 
 The app will print results on the screen after the 'Predict' button is selected.
